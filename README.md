@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z-eeshan
 - 👀 I’m interested in DevOps and DevSecOps
-- 🌱 I’m currently learning helm charts, and Ansible
+- 🌱 I’m currently learning Terraform advance modules, and also preparing for AWS Certified SysOps Administrator Certification
 - 💞️ I’m looking to collaborate on anything related to the field
 - 📫 Reach me at contact@szeeshan.me
 
